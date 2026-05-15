@@ -10,3 +10,5 @@
 - Miguel
 
 Galgas + HX711
+
+instrumentacion de las galgas 
