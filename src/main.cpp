@@ -2,7 +2,7 @@
 
 // ---------------- PINS ----------------
 #define HX_DOUT 32
-#define HX_SCK   4
+#define HX_SCK  33
 
 // ---------------- FUNCTION ----------------
 long readHX711()
