@@ -1,8 +1,8 @@
 #include <Arduino.h>
 
 // ---------------- PINS ----------------
-#define HX_DOUT 32
-#define HX_SCK  33
+#define HX_DOUT 25
+#define HX_SCK  4
 
 // ---------------- FUNCTION ----------------
 long readHX711()
