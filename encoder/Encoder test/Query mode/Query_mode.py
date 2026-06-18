@@ -7,7 +7,7 @@ import csv
 # =====================================
 
 ser = serial.Serial(
-    port='COM6',
+    port='COM3',
     baudrate=115200,
     timeout=0.05
 )
